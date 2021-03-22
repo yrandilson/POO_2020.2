@@ -30,7 +30,7 @@ Interação do usuário utilizando classes Sanner,  funcionamento das classes e 
 <li>Encapsulamento de classes;</li>
 <li>Outros tópicos já aprendidos anteriormente (laços, sequencias e condições).</li>
 </ul>
-<br></br>
+
 <h2>Quanto tempo levou:</h2>
 Em torno de 4 horas, deste a estruturação até o desenvolvimento completo.
 
